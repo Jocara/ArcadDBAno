@@ -1,0 +1,24 @@
+{
+    "titre": "DBAno - Test Json",
+    "description": "Test josn pour DBAno",
+    "dataAno": [
+      {
+        "id": "1",
+        "TotalVolumeData": "12568",
+        "VolumeDataAnonyme": "3524",
+        "DateLastAnonyme": "2018-05-23 14:53"
+      },
+      {
+        "id": 2,
+        "TotalVolumeData": "2548",
+        "VolumeDataAnonyme": "458",
+        "DateLastAnonyme": "2019-02-15 09:04"
+      },
+      {
+        "id": 3,
+        "TotalVolumeData": "20578",
+        "VolumeDataAnonyme": "1025",
+        "DateLastAnonyme": "2019-09-18 12:15"
+      }
+    ]
+  }

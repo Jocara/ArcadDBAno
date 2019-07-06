@@ -4,7 +4,6 @@ import {  RFValue } from "react-native-responsive-fontsize";
 
 
 const VueHaut = StyleSheet.create({
-//VueHaut
   vueHaut: {
     flex: 1,
     backgroundColor:'rgba(88, 41, 00, 0.6)',

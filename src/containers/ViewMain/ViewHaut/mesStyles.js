@@ -16,10 +16,9 @@ const VueHaut = StyleSheet.create({
   caseVideHaut: {
     flex: 1,
   },
-// Case  VueHaut Case Titre
+
   caseTitre: {
     flex: 5,
-//    backgroundColor: 'rgba(52, 52, 52, 0.9)',
     borderStyle: 'solid',
     justifyContent: 'center',
   },
@@ -35,7 +34,7 @@ const VueHaut = StyleSheet.create({
     fontSize: RFValue(25),
     color: 'black',
   },
-// Case  VueHaut Case Fermer
+
   caseFermer: {
     flex: 1,
     borderStyle: 'solid',

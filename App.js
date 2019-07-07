@@ -6,7 +6,6 @@ import { ImageBackground} from 'react-native'
 
 export default class App extends React.Component {
   render() {
-    console.log('rr')
     return (
     <ImageBackground
           source={require('./Communs/Images/fond.png')}

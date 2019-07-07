@@ -1,8 +1,7 @@
+//Communs\js\VerifDate.js
 //Dates début et fin pour query
-import {dateDebut, dateFin } from './RecupDate'
+import { dateDebut, dateFin } from './RecupDate'
 import { isDate } from 'util'
-import moment from 'moment'
-
 
 
 function ValidationDate() {

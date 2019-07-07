@@ -1,4 +1,6 @@
 
+//DashBordAno\Communs\js\Languages.js
+//
 export const en = {
     recupDate : {
         titreAlert: 'Problem in the dates',
@@ -10,11 +12,10 @@ export const en = {
 	labelDatas : {
 		nbProjets : 'Number of projects',
 		totalDatas : 'Total number of data',
-		totallaDatasAno: 'Total number of anonymised data',
+		totalDatasAno: 'Total number of anonymised data',
 		momentLastAno : 'Date of last anonymisation',		
 	},
-	titreApp :'Dashbaord'	
-    
+	titreApp :'Dashboard'	  
 }
 
 export const fr = {
@@ -28,9 +29,8 @@ export const fr = {
 	labelDatas : {
 		nbProjets : 'Nombre de projets',
 		totalDatas : 'Nombre total de données',
-		totallaDatasAno: 'Nombre total de données anonymisées',
-		momentLastAno : 'Date de la dernière anonymisation',
-		
+		totalDatasAno: 'Nombre total de données anonymisées',
+		momentLastAno : 'Date de la dernière anonymisation',		
 	},
-    titreApp :'Dashbaord'	
+    titreApp :'Tableau de bord'	
 }

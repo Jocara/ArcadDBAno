@@ -1,5 +1,5 @@
 //src\containers\ViewMain\ViewHaut\MesStyles.js
-import{ StyleSheet, Platform} from 'react-native'
+import{ StyleSheet, Platform } from 'react-native'
 import {  RFValue } from "react-native-responsive-fontsize";
 
 
@@ -15,7 +15,6 @@ const VueHaut = StyleSheet.create({
   caseVideHaut: {
     flex: 1,
   },
-
   caseTitre: {
     flex: 5,
     borderStyle: 'solid',
@@ -32,13 +31,12 @@ const VueHaut = StyleSheet.create({
     textShadowRadius: 6,
     fontSize: RFValue(25),
     color: 'black',
+    fontFamily: 'sans-serif-light' 
   },
-
   caseFermer: {
     flex: 1,
     borderStyle: 'solid',
     justifyContent: 'flex-end',
-
   },
   imageCroixFermer: {
     flex: 1,

@@ -1,4 +1,4 @@
-//src\components\ViewMain\ViewCentre\ViewNbProjets\datas.js
+//src\components\ViewMain\ViewCentre\ViewNbProjets\datas.js 
 /*  1- Récup url (XMl)
     2- Récup les datas de l'XML de l'url
     2- Génère la View avec la valeur de la balise 'NbProjets'

@@ -3,7 +3,7 @@
     2- Récup les datas du json de l'url
     3- Construit le query avec les dates importées
     4- Pousse le résultat du query dans un tableau
-    5 Boucle sur le tableau
+    5- Boucle sur le tableau
       Cumul du total des datas
       Cumul du total des datas anonymisées
     6- Calcul pourcentage

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
 import JaugeFlag from '../../../components/ViewMain/ViewBas/viewJauge'
 
 export default class ViewBas extends Component {

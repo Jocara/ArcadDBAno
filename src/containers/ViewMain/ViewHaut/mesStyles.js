@@ -1,6 +1,6 @@
 //src\containers\ViewMain\ViewHaut\MesStyles.js
 import{ StyleSheet, Platform } from 'react-native'
-import {  RFValue } from "react-native-responsive-fontsize";
+import {  RFValue } from "react-native-responsive-fontsize"
 
 
 const VueHaut = StyleSheet.create({
@@ -30,8 +30,9 @@ const VueHaut = StyleSheet.create({
     textShadowColor: '#555555',
     textShadowRadius: 6,
     fontSize: RFValue(25),
-    color: 'black',
-    fontFamily: 'sans-serif-light' 
+    color: 'white',
+//TODO: Voir si la police est ok sur ios pas pu tester    
+    fontFamily:  Platform.OS === 'android' ? 'sans-serif-light' : 'Avenir-Light'
   },
   caseFermer: {
     flex: 1,

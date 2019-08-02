@@ -1,4 +1,6 @@
 //src\components\ViewMain\ViewCentre\iconeDatas.js
+/* Renvoie l'icône en paramètre*/
+
 import React from 'react'
 import { View, Image } from 'react-native'
 import MesStyles from '../../../containers/ViewMain/ViewCentre/mesStyles'

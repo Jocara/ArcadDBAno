@@ -8,5 +8,6 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-!node_modules\react-native-speedometer/**/*
+#Config speedometer
+!node_modules\react-native-speedometer\dist\react-native-speedometer.cjs.js
 

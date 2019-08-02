@@ -1,3 +1,5 @@
+//src\components\ViewMain\ViewCentre\labelDatas.js
+/* Renvoie le libellé en paramètre*/
 import React from 'react'
 import { View, Text } from 'react-native'
 

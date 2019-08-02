@@ -5,8 +5,6 @@
     4- Pousse le résultat du query dans un tableau
     5 Boucle sur le tableau
         Cumul du total des datas
-    6- Calcul pourcentage
-    7- Génère le jauge avec le cumul du total des datas
 */ 
 
 

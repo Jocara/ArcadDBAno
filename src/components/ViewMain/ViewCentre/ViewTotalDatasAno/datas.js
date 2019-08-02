@@ -1,3 +1,11 @@
+//src\components\ViewMain\ViewCentre\ViewTotalDatasAno\datas.js
+/*  1- Récup url
+    2- Récup les datas du json de l'url
+    3- Construit le query avec les dates importées
+    4- Pousse le résultat du query dans un tableau
+    5 Boucle sur le tableau
+        Cumul du total des datas anonymisées
+*/ 
 import React from 'react';
 import { ActivityIndicator, Text, View  } from 'react-native';
 import MeStyles from '../../../../containers/ViewMain/ViewCentre/mesStyles'

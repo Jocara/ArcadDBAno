@@ -11,7 +11,6 @@
 */ 
 
 
-
 import React, { Component } from 'react'
 import { ActivityIndicator , Dimensions, View  } from 'react-native'
 
@@ -41,7 +40,7 @@ export default class JaugeFlag extends Component {
         });
       })
       .catch(( error ) =>{
-        console.error( error );
+       console.error( error );
       });
   }
   render(){

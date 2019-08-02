@@ -1,4 +1,6 @@
 //src\components\ViewMain\ViewHaut\titreApp.js
+/* Titre de l'application anglais langue du téléphone différent de français*/
+
 import React, { Component } from 'react'
 import { Text } from 'react-native'
 

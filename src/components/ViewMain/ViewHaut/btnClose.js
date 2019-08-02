@@ -1,4 +1,5 @@
 //src\components\ViewMain\ViewHaut\btnClose.js
+/* ferme l'appli*/
 import React, { Component } from 'react'
 import {  Image,
           TouchableHighlight,

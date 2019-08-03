@@ -13,7 +13,7 @@ export const en = {
 		nbProjets : 'Number of projects',
 		totalDatas : 'Total number of data',
 		totalDatasAno: 'Total number of anonymised data',
-		momentLastAno : 'Date of last anonymisation',		
+		momentLastAno : 'Date of last anonymization',		
 	},
 	titreApp :'Dashboard'	  
 }

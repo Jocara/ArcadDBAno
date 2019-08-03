@@ -234,10 +234,10 @@ function (_Component) {
 
 Speedometer.defaultProps = {
   marginTop: 20,
-  defaultValue: 50,
+  defaultValue: 0,
   minValue: 0,
   maxValue: 100,
-  easeDuration: 500,
+  easeDuration: 3000,
   allowedDecimals: 0,
   labels: [{
     name: 'Pathetically weak',

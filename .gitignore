@@ -1,4 +1,6 @@
 node_modules/**/*
+#Config speedometer
+!node_modules\react-native-speedometer\dist\react-native-speedometer.cjs.js
 .expo/*
 npm-debug.*
 *.jks
@@ -8,6 +10,3 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-#Config speedometer
-!node_modules\react-native-speedometer\dist\react-native-speedometer.cjs.js
-
